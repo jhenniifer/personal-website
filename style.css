@@ -38,7 +38,8 @@ background-color: rgba(106, 90, 205, .2);
 }
 .about{
     line-height: 40px;
-
+text-align: justify;
+background-color: rgba(128, 128, 128, .1);
 }
 .skill-icons{
    font-size: 120px;
@@ -48,6 +49,10 @@ background-color: rgba(106, 90, 205, .2);
     width: 300px;
     border-radius: 20px;
 }
+.contact{
+    background-color: rgba(128, 128, 128, .1);
+}
+
 form{
     background-color: white;
     box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.5);
